@@ -1,10 +1,10 @@
 torch~=2.2.2
 torchvision~=0.17.2
-pyyaml~=5.4.1
-pandas~=1.2.2
-requests~=2.25.1
+pyyaml~=6.0.1
+pandas~=2.2.1
+requests~=2.31.0
 # Only required for CAM visualizations
-grad-cam==1.2.6
-opencv-python~=4.5.1
-ttach~=0.0.3
-tqdm~=4.60.0
+# grad-cam==1.2.6
+# opencv-python~=4.5.1
+# ttach~=0.0.3
+# tqdm~=4.60.0
